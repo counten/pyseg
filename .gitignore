@@ -1,0 +1,5 @@
+*.so
+build
+venv
+MANIFEST
+pyseg.egg-info
