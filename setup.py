@@ -45,7 +45,7 @@ pyseg_module = Extension(
 pkg_name = 'pyseg'
 setup(
     name=pkg_name,
-    version='0.1.0',
+    version='0.0.9',
     description='sentence seg module written in C',
     long_description=codecs.open('README.md', encoding='utf-8').read(),
     author='wbq813',

@@ -1,3 +1,4 @@
 graft lexicon
+graft src
 include README.md
 include LICENCE
