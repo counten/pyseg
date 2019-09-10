@@ -4,7 +4,7 @@ if __name__ == '__main__':
     # s = pyseg.init_seg()
 
     # customer config and lexicon.
-    s = pyseg.init_seg_with_conf("lexicon/config.ini")
+    s = pyseg.init_seg_with_conf("dict/conf.ini")
 
     if s == 0:
         print(pyseg.seg("我想听周杰伦的歌"))
